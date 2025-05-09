@@ -1,16 +1,10 @@
 # worklyn_test
 
-A new Flutter project.
+A Flutter project for Worklyn Assessment Test.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To initiate/run this project follow the following steps. Make sure you have a function iOS or Android simulator/physical device beforehand
+1. Clone the project unto your local machine and open in VsCode or your desired code editor
+2. Run `flutter pub get` to install all the required packages needed to run this project
+3. Lastly, run `flutter run` to start this project on your simulator or physical device
